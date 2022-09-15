@@ -1,0 +1,3 @@
+Colorama
+Requests
+Bs4
